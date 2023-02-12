@@ -14,4 +14,4 @@ jobs:
   php-composer:
     uses: dmyst3/PHP_Composer/.github/workflows/main.yml@main
     with:
-      name: "AHMAD
+      name: "AHMAD"
