@@ -16,4 +16,4 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   call-workflow-in-another-repo:
-    uses: dmyst3/PHP_Composer/.github/workflows/main.yml@v2
+    uses: dmyst3/PHP_Composer/.github/workflows/main.yml@v3
